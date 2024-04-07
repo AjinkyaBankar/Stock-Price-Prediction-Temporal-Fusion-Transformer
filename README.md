@@ -1,1 +1,3 @@
-# Stock-Price-Prediction-Temporal-Fusion-Transformer
+# Stock Price Prediction using Temporal Fusion Transformer
+
+In this project, I employ advanced technique to predict stock prices accurately over time. Through temporal fusion modeling, I leverage temporal patterns and external factors to generate reliable forecasts, aiding in informed decision-making in the financial markets. The DOW JONES stocks prices for the next 5 days are predicted with a context of the last 30 days. 
